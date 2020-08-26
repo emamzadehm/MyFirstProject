@@ -20,7 +20,7 @@ namespace PW_MVC.Controllers
 
         public IActionResult Index()
         {
-            return View(test); 
+            return View(); 
         }
 
         public IActionResult Privacy()

@@ -108,3 +108,5 @@ D:\Projects\Atriya Class\S3\PW_MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Cod
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\PW_MVC.csproj.CoreCompileInputs.cache
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\PW_MVC.MvcApplicationPartsAssemblyInfo.cache
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
+D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Articles.cshtml.g.cs

@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using PW_MVC.Models;
 
 namespace PW_MVC.Controllers
@@ -16,8 +11,7 @@ namespace PW_MVC.Controllers
         {
             return View(); 
         }
-
-        public IActionResult Privacy()
+        public IActionResult Contact()
         {
             return View();
         }

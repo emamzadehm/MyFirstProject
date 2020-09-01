@@ -110,3 +110,5 @@ D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\PW_MVC.MvcApplication
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Articles\_Articles.cshtml.g.cs
 D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\footer.cshtml.g.cs
+D:\Projects\Atriya Class\S3\PW_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\header.cshtml.g.cs

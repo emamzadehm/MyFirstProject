@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace PW_MVC.Models
@@ -15,8 +16,8 @@ namespace PW_MVC.Models
         [Required(ErrorMessage = "لطفاً {0} را وارد نمائید.")]
         [EmailAddress(ErrorMessage = "لطفا فرمت صحیح {0} را وارد نمائید.")]
         public string Email { get; set; }
-        public string Service { get; set; }
+        public int ServiceID { get; set; }
         public string Message { get; set; }
-
+        public SelectList Services { get; set; }
     }
 }
